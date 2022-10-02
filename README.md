@@ -1,0 +1,1 @@
+###This project just show the capabilities how you can connect the mongodb database with your graphql server and do crud operations on it
